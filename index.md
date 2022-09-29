@@ -1,5 +1,5 @@
 # DemiMao
-<img src="demi_picture.JPG" alt="drawing" width="100"/>
+![Demi's picture](demi_picture.JPG)
 
 ## Who I am
 
